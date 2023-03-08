@@ -3,7 +3,7 @@
 <h3 align="center">A passionate 18 Years Old Devops Engineer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reyyzzy&label=Profile%20views&color=0e75b6&style=flat" alt="reyyzzy" /> </p>
+<p align="left"> <img src="https://camo.githubusercontent.com/70efda0ea25590e8ec1d45dad689865a24485a757d9359a4547218d25c0fa352/68747470733a2f2f677076632e6172747572696f2e6465762f6769746875622d70726f66696c652d76696577732d636f756e746572" alt="reyyzzy" /> </p>
 
 - 🔭 I’m currently working on [Tokodistributor](https://www.tokodistributor.com/)
 
