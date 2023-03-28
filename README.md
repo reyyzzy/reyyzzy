@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Kubernetes Secrets**
 
-- 💬 Ask me about **Linux CLI,Docker,Infrastructure**
+- 💬 Ask me about **Linux CLI,Docker,Cloud Computing**
 
 - 📫 How to reach me **reyy0409@gmail.com**
 
