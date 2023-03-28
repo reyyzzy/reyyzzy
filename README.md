@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5612AQGXrs-KaB981w/article-cover_image-shrink_600_2000/0/1520125008352?e=2147483647&v=beta&t=4F9GwYK3Jsz03HWDM3grYrcQv0I9ypW2dEef8IyPBEw)](https://rishavchanda.io)
+[![MasterHead](https://www.linkpicture.com/q/k8s-background.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mochamad Reihan Alghifari</h1>
 <h3 align="center">A passionate 18 Years Old Devops Engineer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
