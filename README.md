@@ -1,17 +1,17 @@
 [![MasterHead](https://www.linkpicture.com/q/k8s-background.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mochamad Reihan Alghifari</h1>
-<h3 align="center">A passionate 18 Years Old Devops Engineer from Indonesia</h3>
+<h3 align="center">A passionate 19 Years Old Devops Engineer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://camo.githubusercontent.com/70efda0ea25590e8ec1d45dad689865a24485a757d9359a4547218d25c0fa352/68747470733a2f2f677076632e6172747572696f2e6465762f6769746875622d70726f66696c652d76696577732d636f756e746572" alt="reyyzzy" /> </p>
+
 
 - 🔭 I’m currently working on [Tokodistributor](https://www.tokodistributor.com/)
 
-- 🌱 I’m currently learning **ArgoCD,Kubernetes,and Terraform**
+- 🌱 I’m currently learning **ArgoCD and Terraform**
 
 - 🤝 I’m looking for help with **ArgoCD**
 
-- 💬 Ask me about **Linux CLI,Docker,Cloud Computing**
+- 💬 Ask me about **Docker,Jenkins,Linux Environment**
 
 - 📫 How to reach me **reyy0409@gmail.com**
 
