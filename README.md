@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ArgoCD,Kubernetes,and Terraform**
 
-- 🤝 I’m looking for help with **Kubernetes Secrets**
+- 🤝 I’m looking for help with **ArgoCD**
 
 - 💬 Ask me about **Linux CLI,Docker,Cloud Computing**
 
