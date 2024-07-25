@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Tokodistributor](https://www.tokodistributor.com/)
+- 🔭 I’m currently working as DevOps Engineer
 
 - 🌱 I’m currently learning **ArgoCD and Terraform**
 
